@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       IMAGE_NAMESPACE: nolte
-      IMAGE_NAME: mosquitto-exporter
+      IMAGE_NAME: home-assistant
 
     steps:
       - name: Checkout
