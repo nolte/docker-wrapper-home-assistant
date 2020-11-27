@@ -1,3 +1,3 @@
-FROM homeassistant/home-assistant:0.117.5
+FROM homeassistant/home-assistant:0.118.4
 
 RUN pip install aiohuesyncbox
